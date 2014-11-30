@@ -1,0 +1,3 @@
+<html>
+<jsp:doBody/>
+</html>
